@@ -85,6 +85,7 @@ The repository contains the following files:
          "age": 40
      }
      ```
+     Send a POST request to the application endpoint.
 ---
 
 ## **Deliverables**
