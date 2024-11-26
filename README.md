@@ -95,7 +95,7 @@ The repository contains the following files:
    - Exploratory Data Analysis (EDA), including feature importance analysis.
 
       Result :  `Glucose`, `Body Mass Index`, `Age`, and `Pregnancies` are the most important features.
-   - Model selection between Logistic regression, Random forest and XGBoost and parameter tuning based on AUC measure.
+   - Model selection between Logistic regression, Random forest and XGBoost and parameter tuning based on AUC measure:
       - **LR** : `0.86`, 
       - **RF** : `0.83`, 
       - **XGBoost** : `0.82`
