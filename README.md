@@ -102,7 +102,7 @@ The repository contains the following files:
 
       on validation set.
 
-   Logistic regression at `C=10` showed the best performance. So, I selected logistic regression for deployment.
+   Logistic regression at `C=10` showed the best performance. So, the logistic regression model was selected for deployment.
 
 2. **Training Script (`train.py`)**:
    - Trains the final model and saves it as a pickle file.
