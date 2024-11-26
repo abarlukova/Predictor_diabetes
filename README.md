@@ -54,7 +54,7 @@ The repository contains the following files:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/abarlukova/Diabetes_predictor.git
+   git clone https://github.com/abarlukova/Predictor_diabetes.git
    ```
 
 2. **Download the dataset**:
