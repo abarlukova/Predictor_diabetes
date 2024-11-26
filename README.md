@@ -92,9 +92,9 @@ The repository contains the following files:
 
 1. **EDA and Model Development (`diabetes.ipynb`)**:
    - Data preparation and cleaning steps.
-   - Exploratory Data Analysis (EDA) including feature importance.
+   - Exploratory Data Analysis (EDA), including feature importance analysis.
 
-      Result :  Glucose, Body Mass Index, Age, and Pregnancies are the most important features.
+      Result :  `Glucose`, `Body Mass Index`, `Age`, and `Pregnancies` are the most important features.
    - Model selection between Logistic regression, Random forest and XGBoost and parameter tuning based on AUC measure.
       - LR : `0.86`, 
       - RF : `0.83`, 
