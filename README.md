@@ -100,7 +100,7 @@ The repository contains the following files:
       - **RF** : `0.83`, 
       - **XGBoost** : `0.82`
 
-   on validation set.
+      on validation set.
 
    Logistic regression at `C=10` showed the best performance. So, I selected logistic regression for deployment.
 
