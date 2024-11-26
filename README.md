@@ -59,7 +59,7 @@ The repository contains the following files:
 
 2. **Download the dataset**:
    - Dataset is available at [Kaggle: Pima Indians Diabetes Database](https://www.kaggle.com/uciml/pima-indians-diabetes-database).
-   - Place the dataset in the `data/` directory as `diabetes.csv`.
+   - Place create `data/` directory and put dataset `diabetes.csv` inside.
 
 3. **Deploy with Docker**:
    Build and run the Docker container:
@@ -96,9 +96,9 @@ The repository contains the following files:
 
       Result :  `Glucose`, `Body Mass Index`, `Age`, and `Pregnancies` are the most important features.
    - Model selection between Logistic regression, Random forest and XGBoost and parameter tuning based on AUC measure.
-      - LR : `0.86`, 
-      - RF : `0.83`, 
-      - XGBoost : `0.82`
+      - **LR** : `0.86`, 
+      - **RF** : `0.83`, 
+      - **XGBoost** : `0.82`
 
    on validation set.
 
